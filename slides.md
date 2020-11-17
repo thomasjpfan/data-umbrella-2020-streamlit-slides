@@ -51,14 +51,18 @@ class: middle
 - [Streamlit Docs](https://docs.streamlit.io/en/stable/)
     - [Layout](https://docs.streamlit.io/en/stable/api.html#lay-out-your-app)
     - [Caching](https://docs.streamlit.io/en/stable/caching.html)
+]
+.g-6[
+### Other Resources
 - [High-Precision Model-Agnostic Explanations](https://github.com/marcotcr/anchor)
 - [SHAP](https://shap.readthedocs.io/en/latest/)
-]
-.g-6.g-center[
+
+.center[
+@thomasjpfan<br>
 <a href="https://www.github.com/thomasjpfan" target="_blank"><span class="icon icon-github icon-left"></span></a>
 <a href="https://www.twitter.com/thomasjpfan" target="_blank"><span class="icon icon-twitter"></span></a>
-@thomasjpfan<br>
 <a class="this-talk-link", href="https://github.com/thomasjpfan/data-umbrella-2020-streamlit-ml" target="_blank">
 This talk on Github: thomasjpfan/data-umbrella-2020-streamlit-ml</a>
+]
 ]
 ]
