@@ -33,6 +33,9 @@ This talk on Github: thomasjpfan/data-umbrella-2020-streamlit-ml</a>
 class: chapter-slide
 
 # Demos 💻
+### 1. Simple Example of Streamlit
+### 2. Build Model in Jupyter Lab
+### 3. Dashboard for Explaining a Model with Streamlit
 
 ---
 
